@@ -5,6 +5,7 @@
 
 # dotenv files
 .env
+Lesson.sln
 
 # User-specific files
 *.rsuser
